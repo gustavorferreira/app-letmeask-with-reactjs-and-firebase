@@ -9,9 +9,6 @@ import logoImg from '../assets/images/logo.svg';
 import googleIconImg from '../assets/images/google-icon.svg';
 
 import '../styles/auth.scss';
-import {wait} from "@testing-library/react";
-
-
 
 export function Home() {
     const history = useHistory();
