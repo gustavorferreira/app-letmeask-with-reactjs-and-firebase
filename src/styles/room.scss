@@ -73,7 +73,7 @@
           span {
             margin-left: 8px;
             color: #29292e;
-            mso-font-width: 500;
+            font-width: 500;
             font-size: 14px;
           }
         }
@@ -94,6 +94,10 @@
           }
         }
       }
+    }
+
+    .question-list {
+      margin-top: 32px;
     }
   }
 }
