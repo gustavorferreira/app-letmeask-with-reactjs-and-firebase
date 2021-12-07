@@ -25,23 +25,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 App de bate papo em tempo real onde o administrador poderá destacar as mensagens mais votada pelos usuários.
-- Usuário:
+- Usuário [http://localhost:3000/rooms/id-sala]:
   - Criar sala com login Google;
   - Curtir e descutir mensagem;
   - Compartilhar código da sala;
 
 
-- Administrador:
+- Administrador [http://localhost:3000/admin/rooms/id-sala]:
   - Destacar mensagem mais votada;
   - Deletar mensagem;
   - Encerrar sala;
-
 
 ## 🚀 Como executar
 
 Para iniciar o seu servidor:
 
 - Instale as dependências com `yarn install`
+- Configure sua varáivel ambiente `cp .env.local.example .env.local` e o Firabase.
 - Inicie o serviço com `yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000/) do seu navegador.
