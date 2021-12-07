@@ -18,6 +18,7 @@ type AuthContextProvider = {
 
 export const AuthContext = createContext({} as AuthContextType);
 
+// eslint-disable-next-line @typescript-eslint/no-redeclare
 export function AuthContextProvider(props: AuthContextProvider) {
     const [user, setUser] = useState<User>();
 
