@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="App" src="https://user-images.githubusercontent.com/48185499/145094983-5061656c-a6da-4728-a125-29d9d2be3fb3.png">
+  <img alt="App" src="https://user-images.githubusercontent.com/48185499/145095150-469877bf-75fd-4f24-af5e-fbce01ff8d92.png">
 </p>
 
 ## ✨ Tecnologias
