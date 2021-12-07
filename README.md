@@ -4,6 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-saiba-mais">Saiba mais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -45,6 +46,10 @@ Para iniciar o seu servidor:
 - Inicie o serviço com `yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000/) do seu navegador.
+
+## ⚡️ Saiba mais
+
+Projeto executado no evento NWL da [Rocketseatal](https://www.rocketseat.com.br/)
 
 ## 📄 Licença
 
