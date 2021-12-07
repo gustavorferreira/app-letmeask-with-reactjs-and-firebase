@@ -12,6 +12,10 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
 
+<p align="center">
+  <img alt="App" src="https://user-images.githubusercontent.com/48185499/145095150-469877bf-75fd-4f24-af5e-fbce01ff8d92.png">
+</p>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
