@@ -43,6 +43,14 @@ App de bate papo em tempo real onde o administrador poderá destacar as mensagen
 
 ## 🚀 Como executar
 
+Pré requisitos para executar o App:
+
+- Node >= 14
+- NPM >= 6.14.15;
+- Yarn >= 1.22.15
+- Firebase Authentication;
+- Firebase Realtime Database = 8.10.0;
+
 Para iniciar o seu servidor:
 
 - Instale as dependências com `yarn install`
