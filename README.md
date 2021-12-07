@@ -53,7 +53,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000/) do seu naveg
 
 ## ⚡️ Saiba mais
 
-Projeto executado no evento NWL da [Rocketseatal](https://www.rocketseat.com.br/)
+Projeto executado no evento NWL da [Rocketseat](https://www.rocketseat.com.br/)
 
 ## 📄 Licença
 
